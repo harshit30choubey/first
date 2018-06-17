@@ -1,0 +1,44 @@
+body {
+  background-image: url("Background.png");
+}
+
+.main{
+  padding-left: 20px;
+  margin: 80px 60px 70px  60px;
+}
+.main h1{
+  color: #00FFFF;
+  font-size: 48px;
+  margin-left: 80px;
+}
+.subdivision {
+  margin-top: 40px;
+
+}
+.subdivision h1{
+  color: #00FFFF;
+  font-size:24px;
+}
+span{
+  display: inline-block;
+  width: 290px;
+  color: white;
+  margin-left: 80px;
+}
+.arrow
+{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+.icons{
+  width: 20px;
+  height: 20px;
+  padding: 5px;
+  margin-right: 5px;
+}
+.footer {
+   position: fixed;
+   right: 0;
+   bottom: 0;
+}
